@@ -1,0 +1,9 @@
+Las APIs ayudan a que las comunidades compartan información de manera organizada.
+Permiten enviar y recibir datos entre aplicaciones.
+Esto facilita reportes de problemas en tiempo real.
+También ayudan a mejorar la comunicación entre usuarios y sistemas.
+Por ejemplo, se pueden enviar alertas de seguridad o emergencias.
+Las APIs hacen que la información llegue más rápido.
+Además permiten automatizar procesos.
+Esto mejora la eficiencia en la comunicación comunitaria.
+En general, hacen más fácil el acceso a la información.

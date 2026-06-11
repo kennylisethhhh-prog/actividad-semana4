@@ -1,0 +1,5 @@
+/ → muestra “Servidor activo”
+
+/saludo → muestra “Hola comunidad”
+
+/mensaje/kenny → muestra “Hola Kenny” 

@@ -1,0 +1,11 @@
+Cuando se envía un reporte mediante la ruta POST /reportes, la información se almacena en el arreglo reportes. Posteriormente, al consultar la ruta GET /reportes, el servidor devuelve la lista de reportes registrados. Esto permite visualizar los datos que han sido almacenados en memoria mientras el servidor permanece en ejecución.
+
+Ejemplo de respuesta:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+] 

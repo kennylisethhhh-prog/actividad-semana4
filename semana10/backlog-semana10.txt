@@ -1,0 +1,5 @@
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia de una situación que afecta a la comunidad.
+2. Como coordinador quiero recibir una alerta en Telegram cuando se registre una nueva incidencia para hacer seguimiento oportuno.
+3. Como miembro del equipo quiero consultar los reportes existentes para conocer el estado de cada caso.
+4. Como ciudadano quiero visualizar las incidencias resueltas para conocer los avances de la comunidad.
+5. Como administrador quiero generar reportes básicos de participación para evaluar el trabajo realizado.
